@@ -1,7 +1,9 @@
 const mongoose = require("mongoose");
 const { stringify } = require("querystring");
+const dotenv = require("dotenv");
+dotenv.config();
 
-mongoose.connect("mongodb://127.0.0.1:27017/pinterestDB");
+mongoose.connect(process.env.MONGODB_URI);
 
 const postSchema = mongoose.Schema({
     imageText: { type: String },
