@@ -4,6 +4,9 @@
 This project is a Printest clone, a dynamic blogging website built using React, React Redux for state management, Appwrite for backend services, Tailwind CSS for styling, and Markdown for content formatting. The website allows users to create, edit, and delete blog posts, manage user authentication, interact with a responsive user interface, and engage through comments and search functionality.
 
 ## Demo Project
+<img width="1067" alt="image" src="https://github.com/princekumarg/printest/assets/86905668/8aa30e48-2c6e-4f27-823d-6d822cb12f17">
+<img width="1079" alt="image" src="https://github.com/princekumarg/printest/assets/86905668/9662cc0d-b55a-4780-9d04-23e56d43ecf0">
+
 
 
 ## Key Features
@@ -29,8 +32,8 @@ This project is a Printest clone, a dynamic blogging website built using React, 
 - **Others:** Markdown, SEO Optimization
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/printest-clone.git`
-2. Navigate to the project directory: `cd printest-clone`
+1. Clone the repository: `https://github.com/princekumarg/printest`
+2. Navigate to the project directory: `cd printest`
 3. Install dependencies: `npm install`
 4. Configure Appwrite backend services and obtain API keys.
 5. Set up environment variables and configurations.
@@ -38,7 +41,7 @@ This project is a Printest clone, a dynamic blogging website built using React, 
 7. Access the website locally: [http://localhost:3000](http://localhost:3000)
 
 ## Contributor
-- [Your Name](https://github.com/your-username)
+- [Your Name](https://github.com/princekumarg)
 
 ## Deployment
-- [Live Demo](https://printest-clone.vercel.app/)
+- [Live Demo](https://printest.onrender.com/)
